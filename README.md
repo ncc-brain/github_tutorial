@@ -2,6 +2,8 @@
  
 For a lot of people, GitHub is a place where you can find a lot of open source projects and store your own projects. But the core beauty of GitHub is its version control + collaboration features. This tutorial will help you understand the basics of GitHub and how to use it with GitHub Desktop.
 
+Here is an extra line for Lena.
+
 ## Git
 Git is a version control system that lets you manage and keep track of your files. Contrary to popular belief, Git can actually be fully local and doesn't require a remote server.
 
